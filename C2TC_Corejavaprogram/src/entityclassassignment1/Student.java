@@ -1,8 +1,6 @@
 package entityclassassignment1;
 
 public class Student {
-
-
 	private int studentId;
     private String name;
     private String department;
@@ -34,5 +32,9 @@ public class Student {
                ", Name: " + name +
                ", Department: " + department;
     }
+
+
+}
+
 
 }
